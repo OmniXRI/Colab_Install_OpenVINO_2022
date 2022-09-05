@@ -1,2 +1,5 @@
 # Colab_Install_OpenVINO_2022
-如何在Colab上建立虛擬環境並從PyPI上安裝Intel OpenVINO2022.1開發者環境
+
+Intel OpenVINO 2022.1提供很多安裝方式，在Google Colab上僅適用APT和PyPI方式安裝。
+
+範例Install_OpenVINO2022_on_Colab_Python_Virtual_Envirment.ipynb 主要介紹PyPI安裝方式及安裝問題解決方式。
