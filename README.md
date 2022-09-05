@@ -1,0 +1,2 @@
+# Colab_Install_OpenVINO_2022
+如何在Colab上建立虛擬環境並從PyPI上安裝Intel OpenVINO2022.1開發者環境
